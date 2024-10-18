@@ -3,6 +3,7 @@
 ## Hi there I'm Lucas 👾
 
 - 🌱 Currently learning Ruby on Rails
+- 📖 Improving my english
 - 🎧 Music moves me
 - 💻 Always learning something new
 - 🚀 Growing up everyday
