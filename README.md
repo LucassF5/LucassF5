@@ -3,25 +3,30 @@
 ## Hi there I'm Lucas 👾
 
 - 🌱 Currently learning Ruby on Rails
-- 📖 Improving my english
 - 🎧 Music moves me
-- 💻 Always learning something new
 - 🚀 Growing up everyday
+
+
+## Roadmap
+- 🔥 Learn advanced Ruby on Rails techniques.
+- 💻 Do more projects
+- 📖 Improve my english
 <br>
 
-```python
-class SoftwareEngineer:
+```ruby
+class SoftwareEngineer
+  def initialize
+    @name = "Lucas Franco"
+    @role = "Software Engineering Intern"
+  end
 
-    def __init__(self):
-        self.name = "Lucas Franco"
-        self.role = "Software Engineering Intern"
+  def hello
+    puts "Welcome to my code space, I hope you enjoy."
+  end
+end
 
-    def hello(self):
-        print("Welcome to my code space, I hope you enjoy.")
-
-
-me = SoftwareEngineer()
-me.hello()
+me = SoftwareEngineer.new
+me.hello
 ```
 
 ### Contacts
@@ -38,12 +43,14 @@ me.hello()
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-323330?style=flat&logo=ruby&logoColor=red)
 ![Ruby](https://img.shields.io/badge/Ruby-FFD43B?style=flat&logo=ruby&logoColor=red)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
+<br>
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+<br>
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 
 
 <br>
