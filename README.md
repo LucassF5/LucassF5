@@ -9,7 +9,7 @@
 
 ## Roadmap
 - 🔥 Learn advanced Ruby on Rails techniques.
-- 💻 Do more projects
+- 💻 Build more projects
 - 📖 Improve my english
 <br>
 
@@ -17,7 +17,7 @@
 class SoftwareEngineer
   def initialize
     @name = "Lucas Franco"
-    @role = "Software Engineering Intern"
+    @role = "Software Engineering"
   end
 
   def hello
